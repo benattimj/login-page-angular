@@ -1,6 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
 
 
+@media screen and (max-width: 600px) {
+    /* Estilos para telas menores */
+}
+
+/* Estilos para telas maiores que 600px */
+@media screen and (min-width: 601px) {
+    /* Estilos para telas maiores */
+}
+
+
 *{
     margin:0;
     padding: 0;
